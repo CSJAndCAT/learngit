@@ -3,4 +3,9 @@ Git is free software distributed under the GPL.
 CSJ is OK.
 Git tracks changes.
 OKOKOK
+<<<<<<< HEAD
 Creating a new branch is quick & simple.
+=======
+Creating a new branch is quick and simple.
+
+>>>>>>> leature1
