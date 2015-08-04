@@ -1,6 +1,6 @@
 Git is a distributed version control system.
 Git is free software distributed under the GPL.
-CSJ is OK and perfect.
+CSJ is ok and that good
 Git tracks changes.
 OKOKOK
 <<<<<<< HEAD
