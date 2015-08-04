@@ -1,7 +1,7 @@
 Git is a distributed version control system.
 Git is free software distributed under the GPL.
 CSJ is ok and that good
-Git tracks changes.
+Git tracks changes, but it is ok.
 OKOKOK
 <<<<<<< HEAD
 Creating a new branch is quick & simple.
