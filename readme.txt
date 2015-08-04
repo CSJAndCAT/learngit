@@ -16,3 +16,4 @@ Creating a new branch is quick and simple.
 >>>>>>> leature1
 
 OH, it is not a good method.
+NOW In MASTER
